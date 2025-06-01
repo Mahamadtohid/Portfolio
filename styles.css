@@ -409,7 +409,7 @@ a{
     color:white;
     padding:2em;
     bottom: 20%;
-    z-index:5;
+    z-index:1;
     gap:1em;
     transition: all 0.4s;
 }
@@ -471,7 +471,7 @@ a{
 }
 
 .project-card:hover .project-content{
-    transform: scale(1.1);
+    transform: scale(1.08);
 
 }
 
